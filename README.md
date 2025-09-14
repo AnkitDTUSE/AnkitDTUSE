@@ -18,3 +18,7 @@ Software Engineering ,passionate about Web development, new emerging technologie
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
 ![Typed.js](https://img.shields.io/badge/-Typed.js-000000?style=flat&logo=typedotjs&logoColor=white)
 ![Locomotive Scroll](https://img.shields.io/badge/-Locomotive%20Scroll-000000?style=flat&logo=scrollreveal&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat&logo=ejs&logoColor=black)
