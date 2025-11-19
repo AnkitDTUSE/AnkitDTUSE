@@ -25,4 +25,5 @@ Software Engineering, passionate about Web development, new emerging technologie
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![React Toastify](https://img.shields.io/badge/-React%20Toastify-FF6F00?style=flat&logo=react&logoColor=white)
-
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
