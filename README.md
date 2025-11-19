@@ -1,8 +1,8 @@
 # Hi there, I'm ANKIT PANCHAL 👋
 
 ## 💻 About Me
-I'm a student at DTU (Delhi Technological University) pursuing BTECH in
-Software Engineering ,passionate about Web development, new emerging technologies like AI-ML, programming etc.
+I'm a student at DTU (Delhi Technological University) pursuing B.TECH in
+Software Engineering, passionate about Web development, new emerging technologies like AI-ML, programming, etc.
 
 - 🔭 I’m currently working on Web development projects.
 - 🌱 I’m currently learning Backend development.
