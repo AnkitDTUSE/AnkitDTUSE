@@ -22,3 +22,7 @@ Software Engineering, passionate about Web development, new emerging technologie
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat&logo=ejs&logoColor=black)
+![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![React Toastify](https://img.shields.io/badge/-React%20Toastify-FF6F00?style=flat&logo=react&logoColor=white)
+
