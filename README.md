@@ -6,7 +6,7 @@ Software Engineering, passionate about Web development, new emerging technologie
 
 - 🔭 I’m currently working on Web development projects.
 - 🌱 I’m currently learning Backend development.
-- 💬 Ask me about computer management(both hardware and software), animations using javascript etc. 
+- 💬 Ask me about computer management(both hardware and software). 
 - 📫 How to reach me: ankitpanchal41106@gmail.com
 
 ## 🧰 Tech Stack
