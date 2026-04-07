@@ -8,6 +8,7 @@ Software Engineering, passionate about Web development, new emerging technologie
 - 🌱 I’m currently learning DSA.
 - 💬 Ask me about computer management(both hardware and software). 
 - 📫 How to reach me: ankitpanchal41106@gmail.com
+- Resume : https://drive.google.com/file/d/1f7-YROwKGJTCY2zz9-Y-CoAslyJRQMJC/view?usp=drive_link
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
