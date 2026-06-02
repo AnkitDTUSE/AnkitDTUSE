@@ -4,9 +4,8 @@
 I'm a student at DTU (Delhi Technological University) pursuing B.TECH in
 Software Engineering, passionate about Web development, new emerging technologies like AI-ML, programming, etc.
 
-- 🔭 I’m currently working on Machine Learning Projects.
-- 🌱 I’m currently learning DSA.
-- 💬 Ask me about computer management(both hardware and software). 
+- 🔭 I’m currently working on BACKEND DEVLOPEMNT.
+- 🌱 I’m currently learning DSA. 
 - 📫 How to reach me: ankitpanchal41106@gmail.com
 - Resume : https://drive.google.com/file/d/1f7-YROwKGJTCY2zz9-Y-CoAslyJRQMJC/view?usp=drive_link
 
