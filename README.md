@@ -5,7 +5,7 @@ I'm a student at DTU (Delhi Technological University) pursuing B.TECH in
 Software Engineering, passionate about Web development, new emerging technologies like AI-ML, programming, etc.
 
 - 🔭 I’m currently working on BACKEND DEVLOPEMNT.
-- 🌱 I’m currently learning DSA. 
+- 🌱 I’m currently learning DSA and GOlang(for backend dev). 
 - 📫 How to reach me: ankitpanchal41106@gmail.com
 
 ## 🧰 Tech Stack
